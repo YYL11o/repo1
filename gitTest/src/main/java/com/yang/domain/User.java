@@ -8,4 +8,9 @@ public class User {
         System.out.println("hello  git project4");
 
     }
+    public void test1(){
+        int i = 0;
+        i+=10;
+
+    }
 }
